@@ -1,7 +1,7 @@
 {
   "name": "vue-manage",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "vue+element-ui管理系统",
   "author": "ppp",
   "private": true,
   "scripts": {
